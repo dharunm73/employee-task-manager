@@ -11,11 +11,11 @@ The project is built with a clean, decoupled architecture, featuring a complete 
 
 ### Screenshots
 
-*(You should add your own screenshots here. A high-quality GIF or short screen recording is highly recommended.)*
+*![Alt Text](screenshot/image 1.png)*
 
 | Employee List View | Task List View |
 | :---: | :---: |
-| (Your Screenshot Here) | (Your Screenshot Here) |
+| ![Alt Text](screenshot/image 2.png) | ![Alt Text](screenshot/image 3.png) |
 
 ### Technology Stack
 
