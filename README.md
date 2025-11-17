@@ -36,7 +36,7 @@ To run this project on your local machine, you will need two separate terminals.
 #### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/dharunm73/employee-task-manager.git](https://github.com/dharunm73/employee-task-manager.git)
 cd employee-task-manager
 ```
 
@@ -57,11 +57,11 @@ This project has two parts: the `project-backend` API and the `project-frontend`
 3.  **Important:** Create a file named `.env` in this folder. You will need to add your MongoDB Atlas connection string here. Your file should look like this:
     ```plaintext
     PORT=5001
-    MONGO_URI=your-mongodb-atlas-string-goes-here
+    MONGO_URI=mongodb+srv://dharunm73:dharunpass123@cluster0.6cnzkcu.mongodb.net/?appName=Cluster0
     ```
 4.  Start the server:
     ```bash
-    npm run dev
+    npm start
     ```
     *(The API should now be running on http://localhost:5001)*
 
