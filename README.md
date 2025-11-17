@@ -35,8 +35,10 @@ To run this project on your local machine, you will need two separate terminals.
 
 #### 1. Clone the Repository
 
+```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd employee-task-manager
+```
 
 ### Local Setup Instructions
 
