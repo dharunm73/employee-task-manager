@@ -11,11 +11,11 @@ The project is built with a clean, decoupled architecture, featuring a complete 
 
 ### Screenshots
 
-*![Alt Text](screenshot/image 1.png)*
+*![Alt Text](./screenshot/image 1.png)*
 
 | Employee List View | Task List View |
 | :---: | :---: |
-| ![Alt Text](screenshot/image 2.png) | ![Alt Text](screenshot/image 3.png) |
+| ![Alt Text](./screenshot/image 2.png) | ![Alt Text](screenshot/image 3.png) |
 
 ### Technology Stack
 
