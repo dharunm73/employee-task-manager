@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+
+.main-content {
+  display: grid;
+  
+  
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  
+  gap: 20px; 
+  padding: 20px;
+  align-items: start; 
+  max-width: 2500px;
+  margin: 0 auto;
+}
+
+
+.loading-message {
+  font-size: 24px;
+  font-weight: 500;
+  color: #555;
+  margin-top: 100px;
+  text-align: center;
+  grid-column: 1 / -1; 
+}
+
+
+.error-message-full {
+  font-size: 20px;
+  font-weight: 500;
+  color: #e74c3c; 
+  background-color: #fbeaea;
+  border: 1px solid #e74c3c;
+  padding: 40px;
+  border-radius: 8px;
+  margin: 50px auto;
+  width: 90%;
+  max-width: 800px;
+  text-align: center;
+  grid-column: 1 / -1; 
+}
