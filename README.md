@@ -4,11 +4,6 @@ This is a full-stack application built with the MERN stack (MongoDB, Express, Re
 
 The project is built with a clean, decoupled architecture, featuring a complete RESTful API for the backend and a separate, component-based React application for the frontend.
 
-### Live Demo Links
-
-* **Frontend Application:** `https://YOUR_VERCEL_URL_HERE.vercel.app`
-* **Backend API Endpoint:** `https://YOUR_RENDER_URL_HERE.onrender.com/api/tasks`
-
 ### Screenshots
 
 *![Alt Text](./screenshot/image1.png)*
