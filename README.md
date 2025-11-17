@@ -15,7 +15,7 @@ The project is built with a clean, decoupled architecture, featuring a complete 
 
 | Employee List View | Task List View |
 | :---: | :---: |
-| ![Alt Text](./screenshot/image 2.png) | ![Alt Text](screenshot/image 3.png) |
+| ![Alt text for the image](./screenshots/image2.png) | ![Alt Text](screenshot/image 3.png) |
 
 ### Technology Stack
 
